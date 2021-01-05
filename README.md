@@ -1,3 +1,4 @@
+[![Build Status](https://successodofin.visualstudio.com/NimbleX%20Git/_apis/build/status/CreditDitectHub.pipelines-dotnet-core?branchName=master)](https://successodofin.visualstudio.com/NimbleX%20Git/_build/latest?definitionId=16&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
